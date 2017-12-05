@@ -4,8 +4,8 @@ An experimental Rx- and RAC-3.0-inspired FRP framework
 
 ## Requirements
 
-- iOS 6.0+
-- Xcode 5.0+
+- iOS 8.0+
+- Xcode 8.0+
 
 ### CocoaPods
 
@@ -21,9 +21,9 @@ To integrate SSignalKit into your Xcode project using CocoaPods, specify it in y
 
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '6.0'
+platform :ios, '8.0'
 
-pod 'SSignalKit', '~> 0.0.2'
+pod 'SwiftSignalKit'
 ```
 
 Then, run the following command:
